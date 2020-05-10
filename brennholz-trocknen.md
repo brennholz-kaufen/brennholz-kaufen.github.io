@@ -1,3 +1,9 @@
+---
+layout: page
+title:  "Brennholz trocknen"
+---
+
+
 Grundsätzlich sollte nur trockenes Holz (dass heißt mit einem Feuchtigkeitsgehalt von höchstens 20%) im Kaminofen verheizt werden.
 Das Verbrennen von waldfrischem Holz (Feuchtigkeitsgehalt um die 50%) führt zu Umweltbelastungen durch unvollständige Verbrennung.
 Zudem mindert die Energie, die zur Verdunstung der Feuchtigkeit benötigt wird den Brennwert. Heizen mit feuchtem Holz ist also unwirtschaftlich, grünes Holz hat nur die Hälfte des Heizwertes von trockenem Holz!
@@ -18,4 +24,4 @@ Neben der Dauer der Trocknung sind auch die Umstände wichtig:
 •	Die Scheite dürfen nicht zu dicht liegen, durchströmende Luft muss die verdunstende Feuchtigkeit mitnehmen.
 
 Wer diesen ganzen Aufwand scheut, oder nicht genug Platz für die Lagerung hat:
-Natürlich bietet der Holzhandel auch bereits getrocknetes Holz zum Verkauf an. Die Preise liegen dann allerdings deutlich höher. Im Jahr 2020 etwa beträgt der Unterschied bei einem örtlichen Holzhändler 19 Euro pro SRM Buchenholz (60 Euro frisch, 79 Euro getrocknet). Bei einem Verbrauch von 5 SRM pro Jahr macht das also knapp 100 Euro aus. Wer den Platz zum Lagern hat ist fährt also auf Dauer trotz der Anschaffungspreise für Regale mit frischem Holz günstiger.
+Natürlich bietet der Holzhandel auch bereits getrocknetes Holz zum Verkauf an. Die Preise liegen dann allerdings deutlich höher. Im Jahr 2020 etwa beträgt der Unterschied bei einem örtlichen Holzhändler 19 Euro pro SRM Buche (60 Euro frisch, 79 Euro getrocknet). Bei einem Verbrauch von 5 SRM pro Jahr macht das also knapp 100 Euro aus. Wer den Platz zum Lagern hat fährt also auf Dauer trotz der Anschaffungspreise für Regale mit frischem Holz günstiger.
