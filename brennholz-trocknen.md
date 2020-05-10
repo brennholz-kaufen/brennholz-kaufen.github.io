@@ -10,7 +10,9 @@ Grundsätzlich sollte nur trockenes Holz (dass heißt mit einem Feuchtigkeitsgeh
 Um jedes Jahr getrocknetes Holz zur Verfügung zu haben, empfehlen sich beispielsweise drei Holzlager die im Rotationsprinzip jeweils das Holz für eine Heizsaison aufnehmen:
 
 Lager 1: Frisch geschlagenes Holz für den übernächsten Winter.
+
 Lager 2: Ein Jahr getrocknetes Holz für den nächsten Winter.
+
 Lager 3: Trockenes Holz für die aktuelle Heizsaison.
 
 Nach Ende der Heizsaison ist ein Lager leer, und kann wieder frisch geschlagenes Holz aufnehmen.
