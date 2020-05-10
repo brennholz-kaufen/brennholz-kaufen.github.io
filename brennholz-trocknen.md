@@ -15,7 +15,7 @@ Lager 3: Trockenes Holz für die aktuelle Heizsaison.
 
 Nach Ende der Heizsaison ist ein Lager leer, und kann wieder frisch geschlagenes Holz aufnehmen.
 
-# Optimale Trocknungsbedingungen
+## Optimale Trocknungsbedingungen
 Neben der Dauer der Trocknung sind auch die Umstände wichtig:
 
 •	Das Holz muss bereits zu Scheiten gespalten sein.
@@ -23,6 +23,6 @@ Neben der Dauer der Trocknung sind auch die Umstände wichtig:
 •	Die Sonne muss drankommen, also idealerweise nach Süden offen.
 •	Die Scheite dürfen nicht zu dicht liegen, durchströmende Luft muss die verdunstende Feuchtigkeit mitnehmen.
 
-# Trockenes Holz kaufen
+## Trockenes Holz kaufen
 Wer diesen ganzen Aufwand scheut, oder nicht genug Platz für die Lagerung hat:
 Natürlich bietet der Holzhandel auch bereits getrocknetes Holz zum Verkauf an. Die Preise liegen dann allerdings deutlich höher. Im Jahr 2020 etwa beträgt der Unterschied bei einem örtlichen Holzhändler 19 Euro pro SRM Buche (60 Euro frisch, 79 Euro getrocknet). Bei einem Verbrauch von 5 SRM pro Jahr macht das also knapp 100 Euro aus. Wer den Platz zum Lagern hat fährt also auf Dauer trotz der Anschaffungspreise für Regale mit frischem Holz günstiger.
