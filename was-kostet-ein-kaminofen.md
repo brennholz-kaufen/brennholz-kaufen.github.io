@@ -14,3 +14,5 @@ Anders sieht die Sache aus wenn der Kaminofen einen Teil der bestehenden Heizung
 
 # Die Premiumklasse
 Bei 1500 Euro ist natürlich noch lange nicht Schluss. In dieser Klasse spielen Design, Verarbeitung und edle Materialien wie Marmor die entscheidende Rolle. Ein Preisvergleich der Kaminofen namhafter Hersteller lohnt sich.
+
+![](http://vg08.met.vgwort.de/na/83f4fc77758446199b76d82b1a3a540d)
