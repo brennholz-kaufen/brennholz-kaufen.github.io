@@ -15,8 +15,11 @@ Wie viel lässt sich denn durch Einsatz eines Kaminofens nun sparen? Eine genaue
 Die folgenden Zahlen illustrieren die durchschnittlichen Jahres-Heizkosten eines 1-Familienhauses mit verschiedenen Brennstoffen:
 
 Brennholz: 		1000€
+
 Pellets: 		900€
+
 Erdgas & Öl: 		1700€
+
 Elektroheizungen 	2300€
 
 Wie schon an anderer Stelle bemerkt, ist der Preis von Brennholz nicht so fix wie z.B. der von Heizöl und lässt sich durch körperlichen Einsatz (Holz selber schlagen, Holz "lesen" usw.) noch deutlich senken.
