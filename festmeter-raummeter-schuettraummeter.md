@@ -4,7 +4,7 @@ title:  "Festmeter, Raummeter oder Schüttraummeter?"
 permalink: /festmeter-raummeter-schuettraummeter/
 ---
 
-Wer das erste Mal Brennholz einkauft ist sicher verwirrt über die verschiedenen Maßeinheiten, denen man nur hier begegnet. Holz ist unter anderem in den Maßeinheiten Ster, Klafter, Festmeter, Raummeter oder Schüttraummeter erhältlich. Das ist erst mal ziemlich verwirrend, insbesondere beim Vergleich von Preisen aber nicht ganz unwichtig.
+Wer das erste Mal Brennholz einkauft, ist sicher verwirrt über die verschiedenen Maßeinheiten, denen man nur hier begegnet. Holz ist unter anderem in den Maßeinheiten Ster, Klafter, Festmeter, Raummeter oder Schüttraummeter erhältlich. Das ist erst mal ziemlich verwirrend, insbesondere beim Vergleich von Preisen aber nicht ganz unwichtig.
 
 ## Festmeter
 Unter einem Festmeter (fm) versteht man einen Kubikmeter Holz, ganz ohne Zwischenräume. Also zum Beispiel ein Würfel mit der Kantenlänge ein Meter. Da sich dieser massive Quader so schlecht zum Heizen verwenden lässt, hat sich ein anderes Maß im Brennholzhandel durchgesetzt, der Raummeter.
@@ -17,10 +17,10 @@ Ein Raummeter ist ebenfalls ein Kubikmeter Holz, allerdings in aufgeschichteter 
 0,7 Festmeter = 1,0 Raummeter = 1,8 Schüttraummeter
 
 ## Schüttraummeter
-Der geschichtete Raummeter ist ohne Zweifel praktischer als ein massiver Holzwürfel. Dennoch ist es im Handel oft wirtschaftlicher, das bestellte Holz einfach vom LKW oder vom Anhänger zu kippen. Man spricht dann von einem Schüttraummeter mit der Ablkürzung srm. Der Schüttraummeter enthält noch mehr Zwischenräume und damit noch weniger Holz pro Kubikmeter.
+Der geschichtete Raummeter ist ohne Zweifel praktischer als ein massiver Holzwürfel. Dennoch ist es im Handel oft wirtschaftlicher, das bestellte Holz einfach vom LKW oder vom Anhänger zu kippen. Man spricht dann von einem Schüttraummeter mit der Abkürzung srm. Der Schüttraummeter enthält noch mehr Zwischenräume und damit noch weniger Holz pro Kubikmeter.
 
 0,4 Festmeter = 0,56 Raummeter = 1,0 Schüttraummeter
 
-Beim Vergleich von Preisen verschiedener Lieferanten ist es also wichtig. entweder die gleichen Einheiten zu vergleichen, oder aber den Umrechnungsfaktor in die Kalkulation mit einzubeziehen.
+Beim Vergleich von Preisen verschiedener Lieferanten ist es also wichtig entweder die gleichen Einheiten zu vergleichen, oder aber den Umrechnungsfaktor in die Kalkulation mit einzubeziehen.
 
 ![](http://vg08.met.vgwort.de/na/6c07d09a87df4498bb4a34231beffd53)
