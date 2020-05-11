@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Festmeter, Raummeter oder Schüttraummeter?"
+permalink: /festmeter-raummeter-schuettraummeter/
 ---
-
 
 Wer das erste Mal Brennholz einkauft ist sicher verwirrt über die verschiedenen Maßeinheiten, denen man nur hier begegnet. Holz ist unter anderem in den Maßeinheiten Ster, Klafter, Festmeter, Raummeter oder Schüttraummeter erhältlich. Das ist erst mal ziemlich verwirrend, insbesondere beim Vergleich von Preisen aber nicht ganz unwichtig.
 

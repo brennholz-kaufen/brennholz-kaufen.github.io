@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Brennholz trocknen"
+permalink: /brennholz-trocknen/
 ---
-
 
 Grundsätzlich sollte nur trockenes Holz (dass heißt mit einem Feuchtigkeitsgehalt von höchstens 20%) im Kaminofen verheizt werden. Das Verbrennen von waldfrischem Holz (Feuchtigkeitsgehalt um die 50%) führt zu Umweltbelastungen durch unvollständige Verbrennung. Zudem mindert die Energie, die zur Verdunstung der Feuchtigkeit benötigt wird den Brennwert. Heizen mit feuchtem Holz ist also unwirtschaftlich, grünes Holz hat nur die Hälfte des Heizwertes von trockenem Holz! Um einen Feuchtigkeitsgehalt von 20% zu erreichen, muss das Holz mindestens zwei Jahre austrocknen. Selbst sehr lange und heiße Sommer wie in den letzten Jahren ändern nichts an dieser Tatsache.
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Heizkosten sparen mit dem Kaminofen"
+permalink: /heizkosten-sparen-kaminofen/
 ---
 
 Neben der gemütlichen Atmosphäre ist das Sparen von Heizkosten sicherlich einer der wichtigsten Gründe für die Anschaffung eines Kaminofens. Die Ölpreise sind zwar grade etwas am Fallen, aber die langsam aber sicher schwindenden Vorkommen werden wohl nicht zur Stabilisierung eines günstigen Preises beitragen. 20% der Haushalte in Deutschland decken deshalb inzwischen zumindest einen Teil Ihres Heizbedarfs mit Holz.

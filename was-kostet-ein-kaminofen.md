@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Was kostet ein Kaminofen?"
+permalink: /was-kostet-ein-kaminofen/
 ---
-
 
 Kaminöfen gibt es in allen Preisklassen. Die  Angebote aus dem Baumarkt beginnen bei ca. 300 Euro. Man kann für einen qualitativ hochwertigen Ofen allerdings auch viele tausend Euro ausgeben. Neben dem Inhalt des Portemonnaies ist vor allen Dingen die geplante Verwendung wichtig für die Auswahl und damit den Preis.
 
