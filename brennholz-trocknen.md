@@ -28,3 +28,10 @@ Neben der Dauer der Trocknung sind auch die Umstände wichtig:
 ## Trockenes Holz kaufen
 Wer diesen ganzen Aufwand scheut, oder nicht genug Platz für die Lagerung hat:
 Natürlich bietet der Holzhandel auch bereits getrocknetes Holz zum Verkauf an. Die Preise liegen dann allerdings deutlich höher. Im Jahr 2020 etwa beträgt der Unterschied bei einem örtlichen Holzhändler 19 Euro pro SRM Buche (60 Euro frisch, 79 Euro getrocknet). Bei einem Verbrauch von 5 SRM pro Jahr macht das also knapp 100 Euro aus. Wer den Platz zum Lagern hat fährt also auf Dauer trotz der Anschaffungspreise für Regale mit frischem Holz günstiger.
+
+![](http://vg08.met.vgwort.de/na/90d69b96a60d43ae85dda901f9b3d702)
+
+
+
+
+

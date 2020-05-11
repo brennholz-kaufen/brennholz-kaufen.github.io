@@ -26,3 +26,9 @@ Elektroheizungen 	2300€
 Wie schon an anderer Stelle bemerkt, ist der Preis von Brennholz nicht so fix wie z.B. der von Heizöl und lässt sich durch körperlichen Einsatz (Holz selber schlagen, Holz "lesen" usw.) noch deutlich senken.
 
 Fazit: Mit einem Kaminofen lassen sich die Heizkosten definitiv reduzieren, das Einsparpotential ist allerdings begrenzt. Wem es in erster Linie ums Geld geht, der sollte zunächst weitere Möglichkeiten wie den Einbau einer Pellets-Anlage oder die Verbesserung der Dämmung prüfen.
+
+![](http://vg08.met.vgwort.de/na/e9726ca3869644158143b6212bd35ec3)
+
+
+
+

@@ -22,3 +22,5 @@ Der geschichtete Raummeter ist ohne Zweifel praktischer als ein massiver Holzwü
 0,4 Festmeter = 0,56 Raummeter = 1,0 Schüttraummeter
 
 Beim Vergleich von Preisen verschiedener Lieferanten ist es also wichtig. entweder die gleichen Einheiten zu vergleichen, oder aber den Umrechnungsfaktor in die Kalkulation mit einzubeziehen.
+
+![](http://vg08.met.vgwort.de/na/6c07d09a87df4498bb4a34231beffd53)

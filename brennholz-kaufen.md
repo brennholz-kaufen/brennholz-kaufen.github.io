@@ -18,3 +18,6 @@ Die Preise für einen Schüttraummeter liegen bei  50-70€.
 
 ## Holz aus dem Baumarkt & Supermarkt
 Für diese handverlesenen Einzelstücke mit glattgefeilten Kanten zahlt man pro Raummeter ca. 200€. Dafür sind die Scheite schon liebevoll gestapelt und die Palette kann direkt im Unterstand abgestellt werden. Noch teurer geht’s nur noch indem man im Supermarkt eine Tüte Brennholz kauft. Wer seinen Kaminofen betreibt um damit Heizkosten zu sparen sollte genau nachrechnen...
+
+
+![](http://vg08.met.vgwort.de/na/a6e7e3b3debf40d88fe9e37bfa0dae69)
